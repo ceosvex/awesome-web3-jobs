@@ -2,6 +2,7 @@
 
 > A curated list of the best resources, job boards, companies, and tools for finding (and getting hired for) web3 and crypto jobs in 2026 — developers, designers, product, community, legal, and everything in between.
 
+- [ChainJobs Salary Report](https://chainjobs.io/crypto-salary-report/) — Live medians and percentiles from 470+ employer-published pay bands, by function and role, recomputed daily. 🆓
 Crypto hiring is exploding: [Electric Capital](https://www.developerreport.com/) tracks tens of thousands of monthly active developers, regulatory clarity (MiCA, UAE, Singapore, Hong Kong) is bringing traditional companies on-chain, and stablecoin + RWA + L2 + zk teams are all competing for the same talent. This list helps you find the roles, the companies, and the prep resources you need to land one.
 
 **Legend** — 💰 commercial intent · 🆓 free resource · 🏛 established · 🚀 growing fast
