@@ -2,6 +2,7 @@
 
 > A curated list of the best resources, job boards, companies, and tools for finding (and getting hired for) web3 and crypto jobs in 2026 — developers, designers, product, community, legal, and everything in between.
 
+- [ChainJobs Salary Report](https://chainjobs.io/crypto-salary-report/) — Live medians and percentiles from 470+ employer-published pay bands, by function and role, recomputed daily. 🆓
 Crypto hiring is exploding: [Electric Capital](https://www.developerreport.com/) tracks tens of thousands of monthly active developers, regulatory clarity (MiCA, UAE, Singapore, Hong Kong) is bringing traditional companies on-chain, and stablecoin + RWA + L2 + zk teams are all competing for the same talent. This list helps you find the roles, the companies, and the prep resources you need to land one.
 
 **Legend** — 💰 commercial intent · 🆓 free resource · 🏛 established · 🚀 growing fast
@@ -32,6 +33,7 @@ General-purpose web3 and crypto job boards with listings across engineering, pro
 - [web3.career](https://web3.career) — Broad aggregator of web3 roles across all categories. 🏛
 - [CryptoJobsList](https://cryptojobslist.com) — One of the oldest crypto job boards, covers global remote roles. 🏛
 - [Cryptocurrency Jobs](https://cryptocurrencyjobs.co) — Weekly-updated listings from established crypto companies. 🏛
+- [ChainJobs](https://chainjobs.io) — 2,650+ live roles re-scraped daily from companies' official ATS boards (Greenhouse/Lever/Ashby); stale roles auto-expire; free, no signup. 🚀
 - [Remote3](https://remote3.co) — Remote-only web3 roles, strong non-technical coverage. 🚀
 - [useWeb3](https://useweb3.xyz/jobs) — Tightly curated, Ethereum-ecosystem focused.
 - [Crypto.jobs](https://crypto.jobs) — Exchange-focused roles.
