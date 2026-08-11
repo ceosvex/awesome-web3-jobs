@@ -37,6 +37,7 @@ General-purpose web3 and crypto job boards with listings across engineering, pro
 - [Crypto.jobs](https://crypto.jobs) — Exchange-focused roles.
 - [Pompcryptojobs](https://jobs.pompletter.com) — Anthony Pompliano's job board.
 - [Bankless Talent](https://talent.bankless.com) — DAO-native roles from the Bankless community.
+- [Maneki](https://maneki.work) — Aggregates listings nightly from 500+ companies' own career pages; normalized salary data, remote filters, expired listings removed automatically. 🚀
 
 ## Company Career Pages (Direct)
 
