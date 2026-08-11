@@ -32,6 +32,7 @@ General-purpose web3 and crypto job boards with listings across engineering, pro
 - [web3.career](https://web3.career) — Broad aggregator of web3 roles across all categories. 🏛
 - [CryptoJobsList](https://cryptojobslist.com) — One of the oldest crypto job boards, covers global remote roles. 🏛
 - [Cryptocurrency Jobs](https://cryptocurrencyjobs.co) — Weekly-updated listings from established crypto companies. 🏛
+- [ChainJobs](https://chainjobs.io) — 2,650+ live roles re-scraped daily from companies' official ATS boards (Greenhouse/Lever/Ashby); stale roles auto-expire; free, no signup. 🚀
 - [Remote3](https://remote3.co) — Remote-only web3 roles, strong non-technical coverage. 🚀
 - [useWeb3](https://useweb3.xyz/jobs) — Tightly curated, Ethereum-ecosystem focused.
 - [Crypto.jobs](https://crypto.jobs) — Exchange-focused roles.
