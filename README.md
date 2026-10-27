@@ -197,6 +197,7 @@ For self-directed builders who want funding while proving skills.
 - [Best Web3 Job Boards](https://web3vacancy.com/best-web3-job-boards) — Where to post your resume for inbound interest.
 - [GitHub](https://github.com) — Your public commit history is your portfolio. Sanitize it.
 - [Dune](https://dune.com) — On-chain analytics dashboards make strong research + data portfolio pieces.
+- [JobEmerge](https://www.jobemerge.work) — Job-fit testing, resume translation, Markdown editing, and application tracking for job seekers.
 
 ## Learning Paths by Role
 
