@@ -177,6 +177,7 @@ For contract, bounty, or short-term engagements.
 - [Code4rena](https://code4rena.com) — Competitive smart contract audits.
 - [Sherlock](https://www.sherlock.xyz) — Audit contests.
 - [Immunefi](https://immunefi.com) — Bug bounty platform for crypto protocols.
+- [Freelance Club](https://fwork.club/en?utm_source=github_ceosvex&utm_medium=github&utm_campaign=links1) — Crypto-payable freelance marketplace with USDT escrow; funds release after the client approves the work.
 
 ## Grants & DAO Bounties
 
